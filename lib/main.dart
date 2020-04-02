@@ -1,10 +1,4 @@
 import 'package:flutter/material.dart';
-import com.microsoft.appcenter.AppCenter;
-import com.microsoft.appcenter.analytics.Analytics;
-import com.microsoft.appcenter.crashes.Crashes;
-import com.microsoft.appcenter.AppCenter;
-import com.microsoft.appcenter.analytics.Analytics;
-import com.microsoft.appcenter.crashes.Crashes;
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
